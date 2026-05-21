@@ -1,0 +1,11 @@
+{
+ "evento": "PedidoCreado",
+ "pedidoId": "PED-1001",
+ "clienteId": "CLI-001",
+ "clienteNombre": "Ana López",
+ "monto": 45.90,
+ "moneda": "USD",
+ "estado": "CREADO",
+ "canal": "WEB",
+ "fechaCreacion": "2026-05-20T10:30:00"
+}
